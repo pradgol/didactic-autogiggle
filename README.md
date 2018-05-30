@@ -1,7 +1,7 @@
 # didactic-autogiggle
 Useful codes for working with structured data
 
-'dataprep_code' has code for the the following purposes for now:
+'dataprep_plots_code_pp' has code for the the following purposes for now:
 
 1. Outlier treatment (cap at 1 percentile and 99 percentile)
 2. Missing value treatment (substitute with 0 or substitute with median/mean)
