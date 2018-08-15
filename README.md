@@ -35,26 +35,26 @@ Tasks performed by the code:
 4. assign SIC code to document without SIC code based on the closest company calculated using cosine similarity
 
 Other data prep codes for the project.
-'crowdfunding.py' 
-'CF_dataprep_code_5June.R'
-'Crowdfunding_2_5_master.egp'
+- 'crowdfunding.py' 
+- 'CF_dataprep_code_5June.R'
+- 'Crowdfunding_2_5_master.egp'
 
 
 # Code from 'Women on company boards and the impact of diversity on innovation outcomes and risk taking ability of firms'
-'womboards_4Jun.py' dataprep
-'womboards_28May.do' regressions
+- 'womboards_4Jun.py' dataprep
+- 'womboards_28May.do' regressions
 
 
 # Success of micro-entrepreneurs in rural settings
-'CSC.py' dataprep
-'cscreport_regs.do' analysis and regressions
+- 'CSC.py' dataprep
+- 'cscreport_regs.do' analysis and regressions
 
 
 # dataprep for networks
-'networks.py'
+- 'networks.py'
 
 # dataprep for 'entrepreneurial clusters' project
-'cluster.py'
+- 'cluster.py'
 
 
 
