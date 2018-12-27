@@ -56,7 +56,9 @@ Other data prep codes for the project.
 # dataprep for 'entrepreneurial clusters' project
 - 'cluster.py'
 
+# Extract data (tweets) from Elasticsearch and store in CSV format
 
+- 'Elasticsearch_to_csv.ipynb'
 
 
 
