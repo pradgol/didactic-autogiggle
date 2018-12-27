@@ -2,7 +2,9 @@
 Useful codes for working with structured data
 
 
-# 'dataprep_plots_code_pp' - basic data prep for structured data before regressions:
+# Basic data prep steps for structured data before regressions:
+
+'dataprep_plots_code_pp' 
 Tasks performed by the code:
 1. Outlier treatment (cap at 1 percentile and 99 percentile)
 2. Missing value treatment (substitute with 0 or substitute with median/mean)
